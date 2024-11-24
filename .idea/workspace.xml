@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c1a8924-4a41-4cf5-bd43-9b2d74a4390c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java multithreading programming assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcurrentDataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DistributedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EasyBasicThreadCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForkJoinPoolWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HardDeadlockDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediumThreadSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReactiveProgrammingWithRxJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadNaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadSleep.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pFEjgxCKql6hkf95df5yPPiW2e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvancedCustomThreadPoolDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentDataStructures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomThreadPool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistributedLocking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EasyBasicThreadCreation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForkJoinPoolWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HardDeadlockDetection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MediumThreadSynchronization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReactiveProgrammingWithRxJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadNaming.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadPool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadSleep.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Solution JAVA/Java multithreading programming assignments/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\OMMASH~1\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="d1f6aa80-987c-48dc-9c20-de68b15a9c29" reportId="Java multithreading programming assignments/qodana/2024-11-23" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c1a8924-4a41-4cf5-bd43-9b2d74a4390c" name="Changes" comment="" />
+      <created>1732353560648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732353560648</updated>
+    </task>
+    <servers />
+  </component>
+</project>
